@@ -1,153 +1,86 @@
-<div align="center">
+# 👋 Hi, I'm S Mohamed Nihaal
 
-# 👋 Hey there, I'm **S Mohamed Nihaal**
-
-### 🚀 Software & Web Developer | 📊 Data Analyst | 🎓 B.Sc. Computer Science Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Software+Engineer;Data+Analyst;Always+Learning+New+Things+%F0%9F%92%AA" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/S.Mohamed)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/urfavnihaal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urfavnihaal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-![Profile Views](https://komarev.com/ghpvc/?username=urfavnihaal&color=blueviolet&style=for-the-badge)
-
-</div>
+Computer Science student building practical software with a focus on
+application security — from authentication systems to phishing detection —
+alongside frontend engineering with React and TypeScript.
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-```yaml
-name: S Mohamed Nihaal
-handle: urfavnihaal
-location: India 🇮🇳
-education: B.Sc. Computer Science (Pursuing)
-roles:
-  - Software Developer
-  - Web Developer
-  - Data Analyst
-currently_learning:
-  - Advanced React & Next.js
-  - Data Engineering
-  - Cloud Architecture
-open_to: Internships | Collaborations | Freelance Projects
-fun_fact: I turn coffee ☕ into code and data into decisions 📊
-```
+- 🎓 Pursuing a B.Sc. in Computer Science at The New College, Chennai (2024–2027)
+- 🔐 Most of my recent projects are security-focused: authentication systems,
+  network scanning tools, and a machine-learning phishing detector
+- 🌐 Also building frontend projects in React + TypeScript — my portfolio site
+  was refactored from a single file into a proper component architecture
+- 🧠 Currently deepening my Python and networking fundamentals through
+  hands-on tooling rather than tutorials
+- 💼 Open to internships and collaborative projects in security or web development
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Languages:** Python, JavaScript, TypeScript, C, C++
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+**Frontend:** React, HTML5, CSS3, Vite
 
-### 🗄️ Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Backend:** Node.js, Express.js
 
-### 🎨 Design & Analytics
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Databases:** MySQL, SQLite
+
+**Security & Networking:** Nmap, Scapy, bcrypt, Socket Programming, Fernet (Cryptography)
+
+**Data / ML:** scikit-learn, Streamlit
 
 ---
 
-## 📂 Projects
+## 📌 Featured Projects
 
-> 🚧 *Currently building exciting projects — stay tuned!*
+### [Storytelling Portfolio](https://github.com/s-mohamed-nihaal/storytelling-portfolio)
+A personal portfolio site refactored from a single monolithic component into
+a structured React + TypeScript + Vite project, with dedicated sections and
+reusable components. Live at [storytelling-portfolio-pi.vercel.app](https://storytelling-portfolio-pi.vercel.app).
 
-| 🔖 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|------------|---------------|----------|---------|
-| 🌐 Portfolio Website | Personal portfolio showcasing skills & work | React, Framer, CSS | [View](#) |
-| 📊 Data Dashboard | Interactive analytics dashboard | Power BI, MySQL | [View](#) |
-| 🛒 Web App | Full-stack web application | React, Firebase, MongoDB | [View](#) |
+### [Secure Login System](https://github.com/s-mohamed-nihaal/secure-login)
+A full authentication system built with Node.js, Express, and MySQL —
+covering password hashing with bcrypt, session-based auth, rate limiting,
+parameterized queries against SQL injection, and secure headers via Helmet.
 
-> 💡 *More projects coming soon — follow to stay updated!*
+### [Phishing Email Detector](https://github.com/s-mohamed-nihaal/phishing-email-detector)
+An end-to-end ML pipeline that classifies emails as phishing or safe using
+TF-IDF text features combined with engineered URL features, served through
+a Streamlit app for real-time analysis.
 
----
+### [Vulnerability Scanner](https://github.com/s-mohamed-nihaal/vulnerability_scanner)
+A Python + Nmap tool that scans a target for open ports and running service
+versions, flags potentially risky services, and generates TXT/JSON reports.
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=urfavnihaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=urfavnihaal&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urfavnihaal&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
+### [Login Attempt Control System](https://github.com/s-mohamed-nihaal/Login-Attempt-Control-System)
+A client-server authentication system using raw Python sockets, SQLite, and
+SHA-256 hashing, with multi-client support via threading.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Portfolio
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=urfavnihaal&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
+[mohamed-nihaal.vercel.app](https://mohamed-nihaal.vercel.app/)
 
 ---
 
-## 🧠 Currently Learning
+## 🎓 Education
 
-<div align="center">
-
-```
-📚 Next.js & Server-Side Rendering
-☁️  Cloud Computing (AWS / GCP)
-🤖 Machine Learning & AI Fundamentals
-🔐 Cybersecurity Basics
-```
-
-</div>
+**B.Sc. Computer Science**
+The New College, Chennai · 2024 – 2027
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect With Me
 
-<div align="center">
-
-I'm always open to collaborating on interesting projects, discussing tech, or just having a good conversation. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/S.Mohamed)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/urfavnihaal)
-
-</div>
+- LinkedIn: [linkedin.com/in/S.Mohamed](https://linkedin.com/in/S.Mohamed)
+- Portfolio: [mohamed-nihaal.vercel.app](https://mohamed-nihaal.vercel.app/)
+- GitHub: [@s-mohamed-nihaal](https://github.com/s-mohamed-nihaal)
 
 ---
 
-<div align="center">
-
-### 💬 Quote I Live By
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
----
-
-⭐️ **From [urfavnihaal](https://github.com/urfavnihaal)** — *If you found something useful here, consider giving a star!* ⭐️
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+Building security tools and frontend projects, one repo at a time.
